@@ -1,6 +1,6 @@
 # Speaker-voice-Recognition-using-MFCC-algorithm-in-matlab
 Detecting the speaker based on his voice. In this project, we mainly deal with Text-Dependent Speaker recognition system i.e., speaker has to speak a specific word to detect his voice.
-
+This algorithim is Generics licensed to the original author 
 
 # Description of Project:
 1. We record an audio sample of each speaker and save them in a folder called 'Train' with their Speaker ID
@@ -11,4 +11,4 @@ Detecting the speaker based on his voice. In this project, we mainly deal with T
 6. To find the speaker who is speaking, type the command "test('Test/name')". name - Speaker ID
 7. Output will give all the Euclidian Distances and Final Speaker ID.
 8. NOTE : Try to record the audio samples in same environment and in same length.
-# Speaker-voice-Recognition-using-MFCC-algorithm-in-matlab
+
